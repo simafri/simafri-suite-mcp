@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simafri-suite": {
+      "type": "http",
+      "url": "https://suite-mcp.simafri.com/mcp"
+    }
+  }
+}
